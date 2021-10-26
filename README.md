@@ -21,14 +21,10 @@
 ⚡ Fun fact I am A Good Learner and I love to do Programming.
 
 **Connect with me:
-**
 [![image](https://user-images.githubusercontent.com/77398467/138858170-5ae22bf6-0dcb-49e6-b9df-fa115235f0f2.png)
 ](https://www.linkedin.com/in/yash-tariyal-802206217/)
 
-**Language and Tools:
-**
-[![image](https://user-images.githubusercontent.com/77398467/138859006-2b821d91-404e-4e3a-9bd4-1a266f3aa3d3.png)
-](https://angular.io/)
+
 <!---
 YashTariyal/YashTariyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
