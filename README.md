@@ -18,7 +18,11 @@
 
 📄 Know about my Achievements https://drive.google.com/drive/folders/1TeWW58t0W6QRQ7K5g3UC_Dm1JKbGFWRM?usp=sharing
 
-⚡ Fun fact I am A Good Learner and I love to do Programming
+⚡ Fun fact I am A Good Learner and I love to do Programming.
+
+Connect with me:
+
+[http://t0.gstatic.com/images?q=tbn:ANd9GcRMCA3j2A8hfLl9p5UAU5nd9lvqLlNZvqoU4xOsZ192uH4IYS6X](https://www.linkedin.com/in/yash-tariyal-802206217/)
 <!---
 YashTariyal/YashTariyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
