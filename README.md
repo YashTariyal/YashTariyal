@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on Open source community.
 
-🤝 I’m looking for help on App/Web Development.
+🤝 I’m looking for help on Web Development.
 
 👨‍💻 All of my projects are available at https://github.com/YashTariyal/
 
