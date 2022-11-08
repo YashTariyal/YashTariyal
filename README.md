@@ -8,12 +8,6 @@
 
 🤝 I’m looking for help on Web Development.
 
-💬 Ask me about C++,C,Java, Python,HTML5, Css3, Javascript
-
-📄 Know about my experiences https://drive.google.com/file/d/1OEQZg3zfWV99p9toj-QtSbKpHKgnKskz/view?usp=sharing
-
-📄 Know about my Achievements https://drive.google.com/drive/folders/1TeWW58t0W6QRQ7K5g3UC_Dm1JKbGFWRM?usp=sharing
-
 ⚡ Fun fact I am A Good Learner and I love to do Programming.
 
 <h3 align="left">Languages and Tools:</h3>
