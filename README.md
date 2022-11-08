@@ -8,22 +8,13 @@
 
 🤝 I’m looking for help on Web Development.
 
-👨‍💻 All of my projects are available at https://github.com/YashTariyal/
-
 💬 Ask me about C++,C,Java, Python,HTML5, Css3, Javascript
-
-📫 How to reach me yashtariyal4@gmail.com
 
 📄 Know about my experiences https://drive.google.com/file/d/1OEQZg3zfWV99p9toj-QtSbKpHKgnKskz/view?usp=sharing
 
 📄 Know about my Achievements https://drive.google.com/drive/folders/1TeWW58t0W6QRQ7K5g3UC_Dm1JKbGFWRM?usp=sharing
 
 ⚡ Fun fact I am A Good Learner and I love to do Programming.
-
-<h3 align="left">Connect with me: </h3>
-
-[![image](https://user-images.githubusercontent.com/77398467/138858170-5ae22bf6-0dcb-49e6-b9df-fa115235f0f2.png)
-](https://www.linkedin.com/in/yash-tariyal-802206217/)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,3 +24,23 @@
 YashTariyal/YashTariyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 📫 Connect with me on
+
+<a href="https://www.linkedin.com/in/yash-tariyal-802206217/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:yashtariyal4@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/tariyalji"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+
+## 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=YashTariyal&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashTariyal&theme=radical" width="48%" >
+
+[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=YashTariyal&theme=radical)](https://github.com/YashTariyal/github-readme-activity-graph)
+
+<a href="https://github.com/YashTariyal">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashTariyal&theme=radical&layout=compact&">
+</a>
+
+## 👀 Profile views
+
+![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
