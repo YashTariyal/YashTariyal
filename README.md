@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Cloud.
 
-🌱 I’m currently learning Node.js,React.js.
+🌱 I’m currently learning Machine Learning.
 
 👯 I’m looking to collaborate on Open source community.
 
