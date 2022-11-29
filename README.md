@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
   
-![LeetCode Stats](https://leetcard.jacoblin.cool/recruityashtariyal2023?theme=wtf&font=Aleo&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/_Shree_Ram_?theme=wtf&font=Familjen%20Grotesk&ext=heatmap)
