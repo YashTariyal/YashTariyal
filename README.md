@@ -26,16 +26,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/yash-tariyal-802206217/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:yashtariyal4@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/tariyalji"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a> [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/YashTariyal/Portfolio/blob/main/assets/resume/Resume_Yash.pdf)
 
 ## 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashTariyal&show_icons=true&theme=radical" alt="github stats" width="48%" align="left">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashTariyal&theme=radical" width="48%" >
-
-[![Yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=YashTariyal&theme=radical)](https://github.com/YashTariyal/github-readme-activity-graph)
-
-<a href="https://github.com/YashTariyal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashTariyal&theme=radical&layout=compact&">
-</a>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashTariyal&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)                                           ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashTariyal&theme=default)
+ 
+[![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashTariyal&theme=radical)](https://github.com/YashTariyal/github-readme-activity-graph)
 
 ## 👀 Profile views
 
