@@ -31,6 +31,11 @@ You can click the Preview link to take a look at your changes.
  
 [![Yash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YashTariyal&theme=radical)](https://github.com/YashTariyal/github-readme-activity-graph)
 
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+ 
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
