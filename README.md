@@ -21,9 +21,15 @@ YashTariyal/YashTariyal is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## 📫 Connect with me on
+## 📫Connect with me:
+<p align="left">
 
-<a href="https://www.linkedin.com/in/yash-tariyal/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  <a href="mailto:yashtariyal4@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  <a href="https://twitter.com/tariyalji"><img title="Twitter" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a> [![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/YashTariyal/Portfolio/blob/main/assets/resume/Resume_Yash.pdf)
+<a href = "https://www.linkedin.com/in/yash-tariyal/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/tariyalji"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="mailto:yashtariyal4@gmail.com"><img title="Email" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a> 
+<a href = "https://www.instagram.com/_yash_tariyal_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
 
 ## 📈 GitHub Statistics
   
