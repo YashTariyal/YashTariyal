@@ -88,7 +88,16 @@ You can click the Preview link to take a look at your changes.
 
 [![@yashtariyal's Holopin board](https://holopin.io/api/user/board?user=yashtariyal)](https://holopin.io/@yashtariyal)
 </p>
+   
+## 🔥 Streak Stats
 
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YashTariyal&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center"> If you can dream it, you can do it🔥 </p>
+</p>
 ## 📈 GitHub Statistics
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YashTariyal&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)                                           ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YashTariyal&theme=default)
