@@ -124,7 +124,11 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
 </p>
- 
+
+## 🔥 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YashTariyal)](https://github.com/YashTariyal/github-profile-trophy)
+
+
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
