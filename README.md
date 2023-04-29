@@ -41,6 +41,16 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
+### 👨‍💻 Programming Profiles
+<span>
+<a href="https://codeforces.com/profile/dil_da_ni_mada">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=dil_da_ni_mada&theme=github_dark&force_username=true&border_color=404040" alt="Yash Tariyal Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/dil_da_ni_mada">
+<img height="316" src="https://leetcard.jacoblin.cool/dil_da_ni_mada?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Yash Tariyal Leetcode Stats"/>
+</a>
+</span>
+
 ### 🧰 Frameworks and Libraries
 
 <p>
@@ -118,5 +128,4 @@ You can click the Preview link to take a look at your changes.
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
-  
-![LeetCode Stats](https://leetcard.jacoblin.cool/_Shree_Ram_?theme=wtf&font=Familjen%20Grotesk&ext=heatmap)
+ 
