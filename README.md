@@ -128,8 +128,15 @@ You can click the Preview link to take a look at your changes.
 ## 🔥 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=YashTariyal)](https://github.com/YashTariyal/github-profile-trophy)
 
-
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{YashTariyal}/count.svg) 
+
+## 👀 Code Time
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
+
+## 👀 Lines of Code
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
  
