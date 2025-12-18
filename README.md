@@ -7,7 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?lines=It's+Not+Over+Until+I+Win+🔥;Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+Kafka;Codeforces+Expert+%7C+LeetCode+Guardian&center=true&width=500&height=45">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=It's+Not+Over,+Until+I+Win+🔥;&center=true&width=380&height=45">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Trespassing+In+The+Domain+Of+;Gods+And+I+Feel+So+Lost+🔥;&center=true&width=380&height=45">
   </a>
 </p>
 
